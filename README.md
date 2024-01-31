@@ -19,7 +19,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/iamak121/Excel-Sales-and-Finanace-Analytics/blob/main/Finance%20Excel%20Project.pdf)_ & _[Months]((https://github.com/iamak121/Excel-Sales-and-Finanace-Analytics/blob/main/P%26L%20Statements%20by%20Months.pdf))_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/iamak121/Excel-Sales-and-Finanace-Analytics/blob/main/Finance%20Excel%20Project.pdf)_ & _[Months](https://github.com/iamak121/Excel-Sales-and-Finanace-Analytics/blob/main/P%26L%20Statements%20by%20Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/iamak121/Excel-Sales-and-Finanace-Analytics/blob/main/Finance%20Excel%20Project.pdf)_
 
